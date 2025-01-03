@@ -26,4 +26,4 @@ Welcome to the Italian Restaurant Website! This project is a beautifully designe
 ## 📧 Contact
 If you have any questions or feedback, feel free to reach out:  
 - [Email](Shaikahmad.2@outlook.com)
-- [LinkedIn](www.linkedin.com/in/shaikahmad)
+- [LinkedIn](https://www.linkedin.com/in/shaikahmad/)
